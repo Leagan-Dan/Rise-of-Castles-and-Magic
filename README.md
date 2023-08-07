@@ -6,7 +6,7 @@ Bachelor's Thesis 2023.
 
 Source Code is private.
 
-[Demo map exploration and systems](https://www.youtube.com/watch?v=66TkHTc8B7c)
+[Demo map exploration and game systems](https://www.youtube.com/watch?v=66TkHTc8B7c)
 
 [Demo AI and player fights](https://www.youtube.com/watch?v=6PjbJ6iawnY)
 
