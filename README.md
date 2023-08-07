@@ -24,7 +24,7 @@ Source Code is private.
 - Algorithms for movement
 - AI algorithm for NPCs (Behavioural Trees)
 
-## Unity Tools 
+## Unity Tools Used
 
 - Canvas
 - GameObjects
