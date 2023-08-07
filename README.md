@@ -13,7 +13,6 @@ Source Code is private.
 ## Technologies Used
 
 - Visual Studio
-- C#
 - Unity Engine
 
 ## Game Design Features
