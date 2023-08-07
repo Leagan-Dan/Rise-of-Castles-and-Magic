@@ -1,7 +1,9 @@
 # Rise-of-Castles-and-Magic
 
-Bachelor's Thesis 2023
+Bachelor's Thesis 2023.
+
 2D Strategy game developed in Unity, in which the players explore the world, gather resources, fight and upgrade with their armies.
+
 Source Code is private.
 
 [Demo map exploration and systems](https://www.youtube.com/watch?v=66TkHTc8B7c)
